@@ -1,7 +1,7 @@
 # Fingerprint-doorlock
 Fingerprint doorlock Arduino project make from Fingerprint sensor and Solenoid door lock
 
-!['image'](.docs/IMG_5542.HEIC)
+![image](/docs/IMG_5542.HEIC)
 ## Main Idea
 Create Doorlock that uses Fingerprint sensor and has less money than another device and Easy way to use
 
